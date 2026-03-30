@@ -1,0 +1,130 @@
+[
+  {
+    "id": "dt_001",
+    "name": "Canva Pro Unlocker",
+    "description": "Canva Pro এর সব ফিচার আনলক করুন। Unlimited templates, elements, background remover ও আরও অনেক কিছু।",
+    "price": 12,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": [
+      "Unlimited premium templates",
+      "Background remover",
+      "Magic Studio access",
+      "Brand kit support"
+    ],
+    "icon": "🎨"
+  },
+  {
+    "id": "dt_002",
+    "name": "Resume & CV Maker",
+    "description": "প্রফেশনাল রেজুমে ও CV তৈরি করুন। ATS friendly templates সহ।",
+    "price": 9,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "100+ modern templates",
+      "ATS optimization",
+      "PDF & Word export",
+      "Bangla & English support"
+    ],
+    "icon": "📄"
+  },
+  {
+    "id": "dt_003",
+    "name": "Social Media Manager",
+    "description": "এক জায়গায় সব সোশ্যাল মিডিয়া অ্যাকাউন্ট ম্যানেজ ও পোস্ট করুন।",
+    "price": 15,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Multi-account support",
+      "Bulk scheduling",
+      "Analytics dashboard",
+      "Auto posting"
+    ],
+    "icon": "📱"
+  },
+  {
+    "id": "dt_004",
+    "name": "YouTube Growth Tools",
+    "description": "YouTube চ্যানেল বাড়াতে সব প্রয়োজনীয় টুল একসাথে।",
+    "price": 18,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": [
+      "Tag & keyword generator",
+      "Thumbnail maker",
+      "SEO title suggestions",
+      "Video idea generator"
+    ],
+    "icon": "🎥"
+  },
+  {
+    "id": "dt_005",
+    "name": "Freelancer Invoice Pro",
+    "description": "পেশাদার ইনভয়েস, কোটেশন ও রসিদ তৈরি করুন। PayPal, bKash, Nagad সাপোর্ট।",
+    "price": 8,
+    "period": "monthly",
+    "tag": "",
+    "tagType": "popular",
+    "features": [
+      "Professional templates",
+      "bKash, Nagad, Bank payment",
+      "Automatic PDF generation",
+      "Tax calculation"
+    ],
+    "icon": "💰"
+  },
+  {
+    "id": "dt_006",
+    "name": "SEO & Keyword Tool",
+    "description": "ওয়েবসাইটের জন্য কীওয়ার্ড রিসার্চ ও SEO অপটিমাইজেশন টুল।",
+    "price": 14,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Keyword research",
+      "Competitor analysis",
+      "Content optimization",
+      "Ranking tracker"
+    ],
+    "icon": "🔍"
+  },
+  {
+    "id": "dt_007",
+    "name": "Password & Security Manager",
+    "description": "সব পাসওয়ার্ড নিরাপদে সংরক্ষণ ও ম্যানেজ করুন।",
+    "price": 7,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Unlimited password storage",
+      "Auto-fill & generator",
+      "2FA support",
+      "Data encryption"
+    ],
+    "icon": "🔐"
+  },
+  {
+    "id": "dt_008",
+    "name": "Business Card & Logo Maker",
+    "description": "প্রফেশনাল বিজনেস কার্ড, লোগো ও ব্র্যান্ডিং ম্যাটেরিয়াল তৈরি করুন।",
+    "price": 10,
+    "period": "monthly",
+    "tag": "",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "Custom logo creator",
+      "Business card designer",
+      "High-quality export"
+    ],
+    "icon": "🪪"
+  }
+]
