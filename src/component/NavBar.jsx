@@ -35,3 +35,6 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
+
+Implement product card component with props
