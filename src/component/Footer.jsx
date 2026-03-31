@@ -10,20 +10,20 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-12 gap-12">
           {/* Logo & Description */}
           <div className="md:col-span-5">
-            <div className="flex items-center gap-3 mb-6">
-              <h2 className="text-3xl font-bold tracking-tighter text-white">
+            <div className=" gap-3 mb-6">
+              <h2 className="text-3xl md:text-start text-center font-bold tracking-tighter text-white">
                 DigiTools
               </h2>
             </div>
 
-            <p className="text-zinc-400 text-lg max-w-md">
+            <p className="text-zinc-400 text-lg max-w-md text-center">
               Premium digital tools for creators, professionals, and businesses. Work smarter with our suite of powerful tools.
             </p>
 
           </div>
 
           {/* Quick Links */}
-          <div className="md:col-span-2">
+          <div className="md:col-span-2 col-span-1 text-center">
             <h3 className="text-red-400 font-semibold mb-6 text-lg">Product</h3>
             <ul className="space-y-4 text-zinc-400">
               <li>
@@ -49,7 +49,7 @@ const Footer = () => {
             </ul>
           </div>
 
-          <div className="md:col-span-2 col-span-2">
+          <div className="md:col-span-2 col-span-1 text-center">
             <h3 className="text-red-400 font-semibold mb-6 text-lg">Company</h3>
             <ul className="space-y-4 text-zinc-400">
               <li>
@@ -105,4 +105,3 @@ const Footer = () => {
 
 export default Footer;
 
-resolve npm run dev issue
