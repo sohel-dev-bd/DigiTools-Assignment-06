@@ -4,9 +4,10 @@ import CardIcon1 from "../assets/package.png";
 import CardIcon2 from "../assets/rocket.png";
 import CardIcon3 from "../assets/user.png";
 
+
 const Started = () => {
     return (
-        <div className='max-w-11/12 mx-auto'>
+        <div className='max-w-11/12 mx-auto '>
             <div className='text-center mt-16'>
                 <h2 className='text-5xl font-bold text-black'>Get Started in 3 Steps</h2>
                 <p className='text-sm m-4 text-gray-500'>Start using premium digital tools in minutes, not hours.</p>

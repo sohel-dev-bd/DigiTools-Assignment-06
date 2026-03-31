@@ -1,8 +1,9 @@
 import React from 'react';
 
+
 const Ready = () => {
     return (
-        <div className='bg-linear-to-r from-[#4F39F6] via-[#9514FA] to-[#9514FA] '>
+        <div className='bg-linear-to-r from-[#4F39F6] via-[#9514FA] to-[#9514FA]'>
             <div className='mt-10 p-20 text-center justify-center items-center'>
                 <h2 className='text-4xl font-bold text-white'>Ready to Transform Your Workflow?</h2>
              
@@ -15,7 +16,6 @@ const Ready = () => {
                          Watch Demo
                         </button>
                       </div>
-
             </div>
         </div>
     );
