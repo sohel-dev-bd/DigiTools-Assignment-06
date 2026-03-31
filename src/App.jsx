@@ -8,6 +8,7 @@ import { ToastContainer } from 'react-toastify'
 import Count from "./component/Count";
 import Ready from "./component/Ready";
 import Pricing from "./component/Transparent";
+import Started from "./component/Started";
 
 
 const getModels = async () => {
@@ -61,7 +62,7 @@ function App() {
 
       {activeTab === "cart" && <Cart  carts={carts} setCarts={setCarts}/>}
 
-
+      <Started/>
       <Pricing/>
       <Ready/>
       <Footer />
