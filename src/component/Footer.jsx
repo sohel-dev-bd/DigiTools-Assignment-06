@@ -49,7 +49,7 @@ const Footer = () => {
             </ul>
           </div>
 
-          <div className="md:col-span-2">
+          <div className="md:col-span-2 col-span-2">
             <h3 className="text-red-400 font-semibold mb-6 text-lg">Company</h3>
             <ul className="space-y-4 text-zinc-400">
               <li>
@@ -75,10 +75,10 @@ const Footer = () => {
             </ul>
           </div>
 
-          <div className="md:col-span-3">
+          <div className="md:col-span-3 text-center">
             <h3 className="text-red-400 font-semibold mb-6 text-lg">Legal</h3>
 
-            <ul className="flex gap-3">
+            <ul className="flex gap-3 justify-center">
               <img src={PlayIcon1} alt="" />
               <img src={PlayIcon2} alt="" />
               <img src={PlayIcon3} alt="" />
@@ -104,3 +104,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
+resolve npm run dev issue
