@@ -6,6 +6,9 @@ import Models from "./component/Models";
 import NavBar from "./component/NavBar";
 import { ToastContainer } from 'react-toastify'
 import Count from "./component/Count";
+import Ready from "./component/Ready";
+import Pricing from "./component/Transparent";
+
 
 const getModels = async () => {
   const res = await fetch("/models.json");
@@ -32,7 +35,7 @@ function App() {
 
           <div className="text-center mt-14">
         <h2 className="text-5xl font-bold">Premium Digital Tools</h2>
-        <p>Choose from our curated collection of premium digital products designedto boost your productivity and creativity.</p>
+        <p className="text-sm mt-2 text-gray-500">Choose from our curated collection of premium digital products designed <br /> to boost your productivity and creativity.</p>
       </div>
 
       <div className="tabs tabs-box justify-center mt-10">
@@ -58,7 +61,9 @@ function App() {
 
       {activeTab === "cart" && <Cart  carts={carts} setCarts={setCarts}/>}
 
-      
+
+      <Pricing/>
+      <Ready/>
       <Footer />
 
        <ToastContainer/>
